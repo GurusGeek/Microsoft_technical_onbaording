@@ -30,29 +30,35 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+ {
+    title: "Online Book Store",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is based on an Online Book store where Users can visit our Website and Buy Books. The website also includes an admin page where administrators can add, delete, and update book details. Implemented using HTML, CSS, jQuery, JavaScript, PHP, and MYSQL.",
+    url: "https://github.com/GurusGeek/Online-Book-Store",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Employee Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project is based on an employees, student department system. It involves CRUD operations for these roles and is implemented using C using .NET Entity Framework.",
+    url: "https://github.com/GurusGeek/Student-Department-Employee-Managment-System",
   },
   {
-    title: "My Resume Site",
+    title: "WECORD (BGMI)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built a tool for Google Solution. The solution mainly consists of a Flutter-based mobile app. This small and simple mobile application aims to check whether your body-to-mass ratio is normal or not. Chose Flutter for its cross-platform capabilities.",
+    url: "https://github.com/GurusGeek/project",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Car Parking System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Includes deployment of a Car Parking System that shows the system of car parking and how this system works through console simulation. Implemented using Flutter (Dart), PHP, and MYSQL.",
+    url: "https://github.com/GurusGeek/CAR-PARKING_SYSTEM",
+  },
+  {
+    title: "Online Voting System",
+    description:
+      "Includes an online voting system where users can vote for their desired political party all over the country. Implemented using Flutter (Dart), PHP, and MYSQL.",
+    url: "https://github.com/GurusGeek/online-voting-system",
   },
 ];
 
